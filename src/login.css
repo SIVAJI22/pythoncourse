@@ -1,0 +1,51 @@
+#login{
+    width: 280px;
+    height: 400px;
+    border-radius: 10px;
+    box-shadow: 10px;
+padding: 20px;
+    margin-top: 60px;
+}
+#login button{
+    width: 235px;
+}
+#google{
+    width: 25px;
+    height: 40px;
+    padding-left: 0px;
+}
+#or{
+    margin-top: 50px;
+  
+    margin-left: 100px;
+
+}
+#login {
+    animation: a 2s ease-out;
+    
+}
+@keyframes a{
+    0%{
+        transform: translatex(200%);
+        opacity: 15%;
+    }
+    
+}
+#googlebtn{
+    height: 40px;
+    margin-top: 1px;
+  padding: 1px;
+  background-color: whitesmoke;
+}
+#needaccount{
+    margin-left: 350px;
+    margin-top: 30px;
+}
+#validation1{
+    color: red;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#incorrect{
+    color: red;
+}

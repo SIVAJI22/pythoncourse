@@ -1,0 +1,79 @@
+
+
+#v{
+    border-left: 3px solid darkgrey;
+    height: 100px;
+    margin-left: -10px;
+  margin-bottom: -100px;
+  z-index: 3333333;
+    padding: 20px;
+}
+#v1{
+    border-left: 3px solid darkgrey;
+    height: 140px;
+    margin-left: -10px;
+  margin-bottom: -140px;
+  z-index: 3333333;
+    padding: 20px;
+}
+#basic1{
+    margin-left: 20px;
+}
+
+#basic{width: 500px;
+    height: 500px;
+margin-left: 20px;
+box-shadow: 50px;
+border-radius: 20px;}
+#whypython{
+    color: darkgray;
+ width: 300px;
+ height: 510px;
+ border-radius: 20px;
+ box-shadow: 20px;
+ padding: 20px;
+ margin-left: 190px;
+ margin-top: -250px;
+}
+#whypython h5{
+    color:rgb(5, 111, 146);
+margin-left: -10px;
+margin-top: -10px;
+}
+#about{
+ width: 1100px;
+ height: 900px;
+ padding: auto;
+ border-radius: 10px;
+ margin-left: 5px;
+
+  background-color: antiquewhite;
+}
+
+#about1{
+    margin-left: 10px;
+}
+#snake{
+
+    
+    margin-left: 147px;
+margin-top: 200px;
+}
+#chart{
+    width: 500px;
+    height: 500px;
+}
+#pythonlogo{
+    width: 70px;
+    height: 70px;
+    margin-left: 1000px;
+    margin-top: -160px;
+}
+#pythonwhere{
+    background-color: whitesmoke;
+    width: 1100px;
+    margin-left: 5px;
+    border-radius: 20px;
+    padding: 50px;
+
+}

@@ -1,0 +1,849 @@
+#pythont{
+   
+    background-color:azure;
+    box-shadow: 20px;
+    margin-left: -235px;
+    padding: 40px;
+    margin-top: 70PX;
+}
+#pythont h5{
+    margin-left: -2px;
+}
+#refer a:hover{
+
+    color: blue;
+}
+#refer a{
+ color: black;
+ display: block;
+}
+#certified{
+    background-color:dimgrey;
+    padding: 30px;
+    width: 700px;
+    height: 400px;
+    box-shadow: 20px;
+    margin-left: -100PX;
+    border-radius: 10PX;
+}
+#certified button{
+   background-color: yellow;
+   color:black;
+   margin-top: 40px;
+   text-shadow: 20px;
+   box-shadow: 20px;
+
+
+}
+#certified h2{
+    color:mintcream;
+
+    font-weight: 600;
+    font-size:50px;
+
+}
+#learning{
+    margin-left: -200px;
+}
+#home{
+
+box-shadow: 20px;
+    background-color: white;
+}
+#tryit{
+    background-color:rgb(198, 225, 245);
+    border-radius: 20px;
+    padding: 20px;
+    width: 700px;
+}
+#tryit p{
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+hr{
+    color: brown;
+    height: 5px;
+}
+#pythont2{
+
+    margin-left: -80px;
+}
+h5{
+    margin-left: -5px;
+}
+
+
+
+/* 
+....................................PyhtonH.css ends here............................ */
+/* ........................................STart css start here........................... */
+#tryit1{
+    background-color:rgb(198, 225, 245);
+    border-radius: 10px;
+    padding: 30px;
+    width: 700px;
+    height: 60px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    
+}
+
+
+#onpage{
+    background-color: lightgray;
+padding: 20px;
+border-radius: 2px;
+box-shadow: 5px;
+}
+
+#onpage a{
+    
+    display: block;
+    text-decoration: none;
+
+}
+#onpage a:hover{
+   color: aliceblue;
+    
+}
+
+#start p{
+    margin-left: 80px;
+}
+#tryit1 p{
+   
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+    margin-top: -20px;
+}
+#start{
+    margin-left: -180px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    margin-top: 90px;
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#vr{
+    border-left: 5px solid green;
+    height: 40px;
+    margin-left: -13px;
+  margin-bottom: -35px;
+  margin-top: -10px;
+  z-index: 3333333;
+    padding: 20px;
+}
+
+#tryit3{
+    background-color:rgb(198, 225, 245);
+    border-radius: 10px;
+    padding: 30px;
+    width: 700px;
+    height: 60px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-left: -5px;
+    
+}
+
+#tryit4{
+    background-color:rgb(198, 225, 245);
+    border-radius: 10px;
+    padding: 10px;
+    width: 700px;
+    margin-left: -5px;
+    
+}
+.brown{
+    color: brown;
+}
+#tryit4 p{
+    padding:10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+/* .............................................start.css ends here/............... */
+
+
+
+
+
+
+
+/* .///////////////////////////////sytnax css starts here///////////////// */
+
+
+#syntax{
+    
+    margin-left: 15px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    margin-top: 90px;
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#tryit2{
+    background-color:rgb(198, 225, 245);
+    border-radius: 10px;
+    padding: 30px;
+    width: 500px;
+    height: 60px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    
+}
+#tryit2 p{
+   
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+    margin-top: -20px;
+}
+#tryit3 p{
+   
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+    margin-top: -20px;
+}
+/* 
+////////////////////////coments css starts here ///////////////////
+ */
+#comment{
+  
+    margin-left: 10px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    margin-top: 60px;
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+
+/* 
+..............................varibale .css starts here////////////////// */
+#var{
+    margin-left: -380px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    margin-top: 90px;
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+/* ///////////////////////////////variablenamea css starts here//////////////// */
+.remember{
+    padding: 30px;
+    background-color: rgb(248, 248, 163);
+    width: 700px;
+    font-weight: 400;}
+#varjhon{
+    padding: 15px;
+    background-color: darkgray;
+    width: 700px;
+    border-radius: 4px;
+}
+#vname{
+    margin-left: -380px;
+    margin-top: 90px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+/* ///////////////////////////Multiple css start here///////////////// */
+
+
+#multiple{
+    margin-left: -200px;
+    margin-top: 90px;
+    margin-left: -380px;
+    margin-top: 90px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+
+}
+
+/* 
+//////////////////////////////output css start here//////////// */
+
+
+#Out{
+    margin-left: -200px;
+    margin-top: 90px;
+    margin-left: -380px;
+    margin-top: 90px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+/* }
+///////////////////////////Global css startws here /////////// */
+
+
+#Global{
+    margin-left: -200px;
+
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+
+}
+
+/* 
+///////////////////////////////python data css starts here///////////////// */
+
+#helogrey{
+    background-color: whitesmoke;
+    padding: 5px;
+    height: 40px;
+    border-radius: 5px;
+
+
+
+}
+
+
+
+#helogrey button{
+    border: 0;
+   margin-top: -1px;
+padding: 4px;
+width: 60px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(9, 136, 36);
+
+}
+
+#helowhite button{
+    border: 0;
+   margin-top: -2px;
+padding: 4px;
+width: 60px;
+    border-radius: 5px;
+    color: whitesmoke;
+    background-color: rgb(9, 136, 36);
+
+}
+
+#helowhite{
+    margin-bottom: 2px;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+#datatypes{
+    border: 1px dotted black;
+    border-radius: 3px;
+    padding: 1px;
+}
+#datacontainer{
+    margin-left: -200px;
+
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+    
+}
+
+/* 
+///////////////////////////number css starts here////////////////////// */
+
+
+#number{
+   
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+    
+}
+
+#number1{
+
+
+    margin-left: -400px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+  
+}
+/* 
+/////////////////////////Casting css here////////////////// */
+
+
+#casting{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+
+/* ////////////////////////////////////////String csss start here///////////////////// */
+
+
+
+#String{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+
+/* 
+///////////////////////////////Boolean css here ///////////////////// */
+
+
+#Boolean{
+
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+/* 
+//////////////////////////////////operator css start here ///////////// */
+
+#helogrey1{
+    background-color: whitesmoke;
+    padding: 5px;
+    height: 75px;
+    border-radius: 5px;
+    margin-bottom: 3px;
+}
+
+#helowhite1{
+    background-color: white;
+    padding: 5px;
+    height: 50px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+#helowhite1 button{
+    border: 0;
+    margin-top: -2px;
+ padding: 4px;
+ width: 60px;
+     border-radius: 5px;
+     color: whitesmoke;
+     background-color: rgb(9, 136, 36);
+}
+
+#helogrey1 button{
+    border: 0;
+    margin-top: 5px;
+ padding: 4px;
+ width: 60px;
+     border-radius: 5px;
+     color: white;
+     background-color: rgb(9, 136, 36);
+}
+
+
+
+#datatypes1{
+    border: 1px dotted black;
+    border-radius: 3px;
+    padding: 1px;
+    height: 500px;
+}
+
+#Dsmaller{
+    width: 25px;
+    height: 25px;
+background-color: whitesmoke;
+padding: 1px;
+}
+#Dgreater{
+    width: 20px;
+    height: 20px;
+}
+#operator{
+    
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+
+/* 
+/////////////////////////list css start here////////////////// */
+
+
+#List{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#mylist{
+    background-color: lightgray;
+    padding: 5px;
+    padding-top: 8px;
+    width: 700px;
+    border-radius: 4px;
+    box-shadow: 10px;
+    margin-top: 0px;
+    height: 40px;
+}
+/* 
+////////////////////////Tuple css start here /////////////// */
+
+#tuple{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+/* 
+////////////////////////////Sets css start here///////////////// */
+#sets{
+    
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+/* 
+///////////////////////Dictnories css start here/////////// */
+
+
+#mylist1{
+    background-color: lightgray;
+    padding: 10px;
+    padding-top: 8px;
+    width: 700px;
+    border-radius: 4px;
+    box-shadow: 10px;
+    margin-top: 0px;
+    height: 140px;
+}
+#Dict{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+/* 
+/////////////////////ifelse css start here /////////// */
+
+
+#tryitpinky{
+    background-color: pink;
+    border-radius: 10px;
+    padding: 10px;
+    width: 700px;
+    margin-left: -5px;
+    
+}
+
+#tryitpinky p{
+    padding:10px;
+    background-color: white;
+    border-radius: 10px;
+}
+#ifelse{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+ #ifelse span{
+    padding: 5px;
+ }
+/* 
+ /////////////////////////////while css start here////////////////////
+  */
+ #while{
+
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+ }
+/* 
+ ////////////////////////For loop css starts here */
+
+
+ #for{
+    
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+ }
+ #for span{
+    padding: 5px;
+ }
+/* 
+/////////////////////////////function css starts here //////////////// */
+ #function{
+       
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+ }
+ #function span{
+    padding: 5px;
+ }
+/* 
+ ////////////////////////Lambda css start here /////////////// */
+ #lambda1{
+ 
+    padding: 6px;
+    background-color: white;
+    width: 700px;
+    box-shadow: 50px;
+   border: 1px black dotted;
+ }
+ #Lambda{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+ }
+ #Next{
+margin-left: 190px;
+width: 90px;
+ }
+
+ /* //////////////////array css start here */
+
+ #array{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+ }
+ #arraymethods{
+    border: 1px dotted black;
+margin: 0;
+padding: 5px;
+
+}
+/* 
+\\\\\\\\\\\\\\\\\\class css start here ///////////// */
+#class{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#self{
+    width: 180px;
+    height: 20px;
+ 
+}
+
+/* 
+///////////////////////inhertiance css start here ////////////// */
+
+#inheritance{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#inheritance span{
+    padding: 4px;
+}
+
+/* 
+
+////////////////////iterator css start here /////// */
+
+#iterator{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#iterator span{
+    padding: 4px;
+}
+/* 
+/////////////poly css start here ////////////// */
+#poly{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#poly span{
+    padding: 4px;
+}
+/* 
+
+///////////////////scope css start here /////////// */
+
+#scope{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#scope span{
+ padding: 4px;
+ margin-top: 2px;
+}
+/* 
+////////////////////////module css start here ///////////////// */
+
+#bracket{
+    width: 40px;
+    height: 40px;
+}
+
+#bracket1{
+    width: 30px;
+    height: 30px;
+}
+#module{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#module span{
+    padding: 4px;
+    margin-top: 3px;
+}
+/* 
+/////////////////Date css starts here ///////////// */
+
+#date{
+    margin-left: -380px;
+    margin-top: 60px;
+    border-radius: 20px;
+    box-shadow: 20px;
+    
+    padding: 40px;
+    border: 1px dotted gainsboro;width: 800px;
+}
+#date span{
+    padding: 4px;
+    margin-top: 3px;
+}
+#helogrey2{
+    background-color: whitesmoke;
+    padding: 5px;
+    height: 75px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+#helogrey2 button{
+    border: 0;
+    margin-top: 10px;
+ padding: 4px;
+ width: 60px;
+     border-radius: 5px;
+     color: white;
+     background-color: rgb(9, 136, 36);
+ 
+}
+#helowhite2{
+    background-color: white;
+    padding: 5px;
+    height: 75px;
+    border-radius: 5px;
+    margin-bottom: -8px;
+    margin-top: 10px;
+}
+#helowhite2 button{
+    border: 0;
+    margin-top: -1px;
+ padding: 4px;
+ width: 60px;
+     border-radius: 5px;
+     color: white;
+     background-color: rgb(9, 136, 36);
+}

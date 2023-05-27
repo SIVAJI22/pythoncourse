@@ -1,0 +1,70 @@
+#Signup{
+    width: 330px;
+    height: 550px;
+    border-radius: 10px;
+    box-shadow: 10px;
+padding: 20px;
+    margin-top: 20px;
+}
+
+#Signup button{
+    width: 290px;
+}
+#google{
+    width: 25px;
+    height: 40px;
+    padding-left: 0px;
+}
+#or1{
+  
+    margin-left: 130px;
+
+}
+#Signup {
+    animation: a 2s ease-out;
+    
+}
+@keyframes a{
+    0%{
+        transform: translatex(200%);
+        opacity: 15%;
+    }
+    
+}
+#googlebtn{
+    height: 40px;
+    margin-top: 1px;
+  padding: 1px;
+  background-color: whitesmoke;
+}
+#needaccount{
+    margin-left: 350px;
+}
+#lets{
+    font-size: 70px;
+    font-weight:500;
+    font-family:  initial;
+    margin-left: 200px;
+}
+#letsimg{
+    width: 70px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: -50px;
+}
+#validation{
+    color: red;
+    margin-left: 64px;
+    margin-top: 10px;
+}
+#invalid{
+    color: red;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+#mobile{
+    color: red;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 13px;
+}

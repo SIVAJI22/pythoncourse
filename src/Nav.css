@@ -1,0 +1,36 @@
+#nav a{
+    float: left;
+    /* display: block; */
+ margin-bottom: -5px;
+ margin-top: -12px;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+    justify-self: auto;
+color: black;
+font-weight: 700;
+padding-top: 12px;
+}
+#nav a:hover{
+    color:darkgrey;
+  
+}
+#nav a:active{
+    color:darkgrey;
+background-color:rgb(2, 2, 92);
+border-radius: 10px;
+
+padding: 6px;
+margin-top: -6px;
+}
+#nav{
+    position: fixed;
+    top: 0;
+    width: 1157px;
+    background-color: aliceblue;
+    z-index: 555555555555555;
+    background-color:oldlace;
+    margin-left: -30px;
+    padding-right: 30px;
+    
+}

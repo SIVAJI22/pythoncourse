@@ -1,0 +1,30 @@
+#ends span{
+margin-left: 10px;
+
+}
+#ends a{
+    text-decoration: none;
+}
+#pythonend{
+    padding:40px;
+    background-color: aliceblue;
+    border-radius: 50px 50px 50px    50px ;
+    width: 140px;
+    height: 140px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+#copyright{
+    margin-left: 200px;
+}
+#ends{
+    padding: 30px;
+    margin-left: -30px;
+height: 300px;
+width: 1160px;
+z-index: 55555555555555555555;
+
+
+
+
+}
