@@ -49,7 +49,7 @@ web development, and machine learning all shine here. Quora, Pinterest and Spoti
 </div>
 <br /><br />
 
-
+<div id="py">
 <div id="pythonwhere" className="container-fluid">
 
 
@@ -184,7 +184,7 @@ only will you learn Python, you will learn how to use it as you build practical 
 
             </div>  
  </div>
-
+ </div>
 
 
 

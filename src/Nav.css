@@ -26,11 +26,11 @@ margin-top: -6px;
 #nav{
     position: fixed;
     top: 0;
-    width: 1157px;
+    width: 1357px;
     background-color: aliceblue;
     z-index: 555555555555555;
     background-color:oldlace;
-    margin-left: -30px;
+    margin-left: 0px;
     padding-right: 30px;
     
 }
